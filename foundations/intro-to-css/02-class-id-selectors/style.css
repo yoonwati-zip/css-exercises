@@ -1,19 +1,18 @@
-.a {
-    background-color: #fc9b9b;
+.odd {
+    background-color: rgb(250, 167, 167);
     font-family: Verdana,"DejaVu Sans", Sans-serif;
 }
 
-.b {
+.adjust-font-size {
     font-size: 24px;
 }
 
-#a {
-    color: #0000ff;
+#two {
+    color: rgb(0, 0, 240);
     font-size: 36px;
 }
 
-#b {
-    background-color: #90fc90;
-    font-size: 24px;
+#four {
+    background-color: rgb(156, 255, 156);
     font-weight: bold;
 }
